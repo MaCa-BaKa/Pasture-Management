@@ -1,5 +1,7 @@
 # 41-牧场管理系统
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 ##### 技术栈: springBoot+Redis+Mysql+Vue
 
 ##### 功能点: 牧场场地管理用户  畜牧信息管理用户  牧场产量管理用户    管理员端
@@ -52,4 +54,6 @@
 
 ![牧场管理12](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/牧场管理12.jpg)
 
-绿泡泡MaKaBaca0
+
+
+[文档地址](http://wechat.zjrcsy.cn/)
